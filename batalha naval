@@ -3,4 +3,7 @@
  int main () {
     // Nível Novato - Posicionamento dos navios
 
-   // Declara uma 
+   // Declara uma matriz 5x5 representando o tabuleiro
+   int tabuleiro[5][5] = {0};
+
+  // Posicionamento do navio horizontal (por
